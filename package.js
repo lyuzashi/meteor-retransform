@@ -2,6 +2,7 @@ Package.describe({
   name: 'lyuzashi:retransform',
   version: '0.0.1',
   summary: 'Apply multiple transforms to a collection any time after definition',
+  git: 'https://github.com/lyuzashi/meteor-retransform',
   documentation: 'README.md'
 });
 
